@@ -1,0 +1,19 @@
+Apr 25 14:01:12 camera-1 detected motion at 40,30
+Apr 25 14:16:12 camera-1 user started viewing live video
+Apr 25 15:01:12 camera-1 brightness adjusted +10
+Apr 25 15:16:12 camera-1 camera powered off
+Apr 25 16:16:12 camera-1 camera powered on
+Apr 25 16:01:12 camera-1 detected motion at 10,30
+Apr 25 17:16:12 camera-1 user started viewing live video
+Apr 25 17:01:12 camera-1 brightness adjusted +40
+Apr 25 18:16:12 camera-1 camera powered off
+Apr 25 18:16:12 camera-1 camera powered on
+Apr 25 19:01:12 camera-1 detected motion at 40,30
+Apr 25 19:16:12 camera-1 user started viewing live video
+Apr 25 20:01:12 camera-1 brightness adjusted +10
+Apr 25 20:16:12 camera-1 camera powered off
+Apr 25 21:16:12 camera-1 camera powered on
+Apr 25 22:01:12 camera-1 detected motion at 10,30
+Apr 25 22:16:12 camera-1 user started viewing live video
+Apr 25 23:01:12 camera-1 brightness adjusted +40
+Apr 25 23:16:12 camera-1 camera powered off
