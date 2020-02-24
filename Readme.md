@@ -1,5 +1,3 @@
-This is the first round interview submission by Harsh Shah(iamharsh@umd.edu).
-
 To start the system run:-
 	cmd: docker-compose up
 at the location where docker-compose.yml is residing.
