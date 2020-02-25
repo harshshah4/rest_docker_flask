@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 In a client server environment. Lets assume there is a camera which is generating logs every 10 secs.
 The logs are written to logs file : to_logs_file.txt on the camera client which has no open ports.
 The server has only one open port and only one user facing api GET: /logs/. 
@@ -9,8 +8,6 @@ The client camera then sends the logs using a private API and hence the user rec
 
 Steps to run this:-
 
-=======
->>>>>>> 910aad400e4cd8a14feb6618c0058aea4e0d6acc
 To start the system run:-
 	cmd: docker-compose up
 at the location where docker-compose.yml is residing.
